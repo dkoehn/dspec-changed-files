@@ -1,0 +1,8 @@
+{
+    "name": "dkoehn/dspec-changed-files",
+    "autoload": {
+        "psr-4": {
+            "DKoehn\\DSpec\\ChangedFiles\\": "src/"
+        }
+    }
+}
